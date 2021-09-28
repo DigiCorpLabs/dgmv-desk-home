@@ -2,12 +2,19 @@
 
 Access beta version for testing http://beta.uhuru.me
 You will need to download TF-Connect app from app stores, TF-Connect app is used as authenticator.
+"ADD WIKI LINKE ONCE AVAILABLE"
 
 ## Products and Projects
 
 These are products/components of Uhuru App
 
 - https://github.com/threefoldtech/twin_aydo#readme = Basic Uhuru app
+  
+This experience has following functionality
+- chat interface (secure peer to peer chat)
+- file manager interface (Quantum Safe File System https://github.com/threefoldtech/quantum-storage)
+- launcher for video conferencing
+- glass browser (secure browsing)
 
 
 
